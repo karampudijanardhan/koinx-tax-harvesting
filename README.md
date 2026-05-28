@@ -6,24 +6,17 @@ A responsive React-based Tax Loss Harvesting dashboard built as part of the Koin
 
 # Live Demo
 
-Add your deployed Vercel link here:
-
-```txt id="n6zqru"
-https://your-vercel-link.vercel.app
-```
+https://koinx-tax-harvesting-8a5w.onrender.com/
 
 ---
 
 # GitHub Repository
 
-Add your GitHub repository link here:
-
-```txt id="8g7s9f"
-https://github.com/yourusername/koinx-tax-harvesting
-```
+https://github.com/karampudijanardhan/koinx-tax-harvesting
 
 ---
-
+## ScreenShot
+public/dashboard.png
 # Features
 
 ✅ Responsive React Dashboard
@@ -52,7 +45,7 @@ https://github.com/yourusername/koinx-tax-harvesting
 
 # Folder Structure
 
-```txt id="88nsl7"
+```txt
 src/
 │
 ├── components/
@@ -81,15 +74,15 @@ src/
 
 ## Clone Repository
 
-```bash id="pn12fz"
-git clone https://github.com/yourusername/koinx-tax-harvesting.git
+```bash
+git clone https://github.com/karampudijanardhan/koinx-tax-harvesting.git
 ```
 
 ---
 
 ## Move Into Project Folder
 
-```bash id="lckf9m"
+```bash
 cd koinx-tax-harvesting
 ```
 
@@ -97,7 +90,7 @@ cd koinx-tax-harvesting
 
 ## Install Dependencies
 
-```bash id="85njd4"
+```bash
 npm install
 ```
 
@@ -105,8 +98,16 @@ npm install
 
 ## Start Development Server
 
-```bash id="tf5dko"
+```bash
 npm run dev
+```
+
+---
+
+# Build For Production
+
+```bash
+npm run build
 ```
 
 ---
@@ -136,12 +137,24 @@ The application is fully responsive and supports:
 
 # Screenshots
 
-Add screenshots here before submission.
+## Dashboard
+
+Add your dashboard screenshot here.
 
 Example:
 
-```txt id="l41f11"
-screenshots/dashboard.png
+```txt
+public/screenshots/dashboard.png
+```
+
+## Mobile View
+
+Add your mobile screenshot here.
+
+Example:
+
+```txt
+public/screenshots/mobile.png
 ```
 
 ---
@@ -151,6 +164,7 @@ screenshots/dashboard.png
 * APIs are mocked locally using Promises.
 * Tax calculations are simulated for frontend demonstration purposes.
 * Currency values are displayed in INR format.
+* The application focuses mainly on frontend functionality and UI interactions.
 
 ---
 
@@ -168,3 +182,4 @@ screenshots/dashboard.png
 # Author
 
 KARAMPUDI Janardhan
+Frontend Developer | React.js Enthusiast
